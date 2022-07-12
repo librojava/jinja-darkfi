@@ -1,11 +1,9 @@
-# posts converting
+# TO DO
 
+- jinja dosen't convert the img caption ,we need to write specific script for that. 
 
+- table: we need to write script that convert the markup table to an html table.
 
-- caption world: without specific id to take bar and correct font
-
-- table: is defined like paraghraph in html when jinja convert it from md to html file so it dosent match to correct style
-
-- the reference: to take a correct style we need to add  "div" and "li" to file.md
+- the referenc: we need to write script for fix this to automatically inject \<div\> and \<li\>.
 
 
