@@ -8,3 +8,11 @@
 
 - convert math with pandoc
 
+
+# Run
+
+```console
+user@name:~$ python3 app.py build
+user@name:~$ python3 app.py
+
+```
